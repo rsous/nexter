@@ -125,7 +125,7 @@ See the [open issues](https://github.com/rsous/nexter/issues) for a list of prop
 
 ## Contact
 
-Rodolfo - [@rsovs](https://twitter.com/rsovs) - rsous@pm.me
+Rodolfo - [@rsovs](https://twitter.com/rsovs) - rsovs@pm.me
 
 Project Link: [https://github.com/rsous/nexter](https://github.com/rsous/nexter)
 
